@@ -15,3 +15,9 @@ elif doesyours == "no":
     print('NOT HALLAL VERY HARAM 😡😡😡😡')
 else:
     print('bro tf you talking about 💀')
+    
+isharamgood = str(input('is haram good?'))
+if isharamgood == 'yes':
+    print('NOT HALLAL VERY HARAM 😡😡😡😡')
+elif isharamgood == 'no':
+    print('very hallal 😌😌😌 allah best 🥱')
