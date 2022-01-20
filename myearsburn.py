@@ -17,8 +17,20 @@ elif doesyours == "no":
 else:
     print('bro tf you talking about 💀')
     
-isharamgood = str(input('is haram good?'))
+isharamgood = str(input('is haram good?\n'))
 if isharamgood == 'yes':
     print('NOT HALLAL VERY HARAM 😡😡😡😡')
 elif isharamgood == 'no':
     print('very hallal 😌😌😌 allah best 🥱')
+else:
+    print('😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡')
+    time.sleep(5)
+
+isallahbad = str(input('is allah bad?\n'))
+if isallahbad == 'yes':
+    print('😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡')
+    time.sleep(5)
+elif isallahbad == 'yes':
+    print('allah best 🤤🤤🤤🤤🤤')
+else:
+    print('what are you saying lol')
