@@ -2,7 +2,7 @@
 basically i just was learning how to use github and nothing more. you've been pranked trolled and gato.
 
 # check out my other project
-the github is [here aka click on this link.](https://www.github.com/pixeleer/gatonuke)
+the github is nothing
 and yes that is an advertisment for my project
 
 # how to get the fbi on you in 2 seconds
